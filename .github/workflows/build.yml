@@ -135,6 +135,7 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify
+        touch public/.nojekyll
 
     - name: Generate Pagefind search index (if applicable)
       run: |
