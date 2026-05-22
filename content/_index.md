@@ -7,6 +7,7 @@ type: landing
 
 sections:
   - block: resume-biography-3
+    id: about-me
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -14,7 +15,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum Vitae
-        url: uploads/CV Amdad Ahmed Awsaf.pdf
+        url: "uploads/CV Amdad Ahmed Awsaf.pdf"
       headings:
         about: ''
         education: ''
@@ -66,6 +67,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |-
+        Add your teaching experience, courses taught, guest lectures, teaching assistantships, and mentoring here.
+    design:
+      columns: '1'
   - block: collection
     id: talks
     content:
@@ -104,6 +114,15 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      subtitle: ''
+      text: |-
+        Email: [your.email@fiu.edu](mailto:your.email@fiu.edu)
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
