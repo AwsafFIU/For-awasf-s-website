@@ -58,4 +58,37 @@
   html[data-page-path="/events"] .page-body div[role="article"] a:has(span) {
     font-size: 0.98rem !important;
   }
+
+  html[data-page-path="/publications"] .page-body .container {
+    max-width: 78ch !important;
+    display: block !important;
+  }
+
+  html[data-page-path="/publications"] .page-body .pub-list-item.view-citation {
+    font-size: 1.12rem !important;
+    line-height: 1.75 !important;
+    border-bottom: 1px solid color-mix(in srgb, currentColor 20%, transparent) !important;
+    padding: 0 0 1.6rem 0 !important;
+    margin: 0 0 1.6rem 0 !important;
+  }
+
+  html[data-page-path="/publications"] .page-body .pub-icon {
+    display: none !important;
+  }
+
+  html[data-page-path="/publications"] .page-body .pub-list-item.view-citation a {
+    display: block !important;
+    font-size: 1.38rem !important;
+    font-weight: 700 !important;
+    line-height: 1.35 !important;
+    margin: 0.35rem 0 !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 0.18em !important;
+  }
+
+  html[data-page-path="/publications"] .page-body .article-metadata,
+  html[data-page-path="/publications"] .page-body .li-cite-author {
+    font-size: 1.05rem !important;
+    line-height: 1.65 !important;
+  }
 </style>
