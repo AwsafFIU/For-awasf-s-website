@@ -2,7 +2,7 @@
 title: Conferences & Presentations
 cms_exclude: true
 
-view: card
+view: compact
 
 image:
   caption: ''
