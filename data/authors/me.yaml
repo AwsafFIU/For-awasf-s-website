@@ -7,7 +7,7 @@ name:
   family: Awsaf
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns:
 postnominals:
   - MEd
   - EdS
