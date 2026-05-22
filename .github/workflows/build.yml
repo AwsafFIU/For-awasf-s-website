@@ -136,8 +136,10 @@ jobs:
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify
         touch public/.nojekyll
-        cp public/css/_entry.css public/css/entry.css
-        find public -name "*.html" -type f -exec sed -i 's#/css/_entry.css#/css/entry.css#g' {} +
+        if [ -f public/css/_entry.css ]; then
+          cp public/css/_entry.css public/css/entry.css
+          find public -name "*.html" -type f -exec sed -i 's#/css/_entry.css#/css/entry.css#g' {} +
+        fi
 
     - name: Generate Pagefind search index (if applicable)
       run: |
