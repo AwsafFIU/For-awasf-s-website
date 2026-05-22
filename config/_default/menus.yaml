@@ -5,26 +5,26 @@
 
 main:
   - name: About Me
-    url: /#about-me
+    url: /
     weight: 10
   - name: Research & Publications
-    url: /#research-publications
+    url: publications/
     weight: 11
   - name: Conferences
-    url: /#conferences
+    url: events/
     weight: 12
   - name: Teaching
-    url: /#teaching
+    url: teaching/
     weight: 13
   - name: Project Affiliations
-    url: /#project-affiliations
+    url: projects/
     weight: 14
   - name: Awards & Honors
-    url: /#awards-honors
+    url: awards/
     weight: 15
   - name: Courses
-    url: /#courses
+    url: courses/
     weight: 16
   - name: Contact
-    url: /#contact
+    url: contact/
     weight: 17

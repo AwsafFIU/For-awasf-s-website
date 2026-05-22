@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Conferences & Presentations
 cms_exclude: true
 #url: talk
 
@@ -11,3 +11,5 @@ image:
   caption: ''
   filename: ''
 ---
+
+This page includes conference presentations, invited talks, posters, workshops, symposium participation, and other public research presentations.
