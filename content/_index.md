@@ -13,8 +13,8 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Curriculum Vitae
+        url: uploads/CV Amdad Ahmed Awsaf.pdf
       headings:
         about: ''
         education: ''
