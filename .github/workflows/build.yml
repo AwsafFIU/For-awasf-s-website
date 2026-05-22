@@ -16,9 +16,11 @@ on:
   # Allow manual trigger for testing
   workflow_dispatch:
 
-# Read-only permissions for security
+# Permissions needed to configure and build GitHub Pages
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 # Prevent duplicate builds for the same PR
 concurrency:
