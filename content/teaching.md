@@ -21,9 +21,9 @@ sections:
 
         ## Courses Taught or Assisted
 
-        Add each course using this format:
+        Spring 2026
 
-        - **Course Title**, Role, Institution, Semester/Year
+        - **SMT**, Role, Institution, Semester/Year
         - Short description of your teaching responsibilities, students served, and major assignments or learning goals.
 
         ## Mentoring and Workshops
