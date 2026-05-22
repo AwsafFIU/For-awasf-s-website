@@ -1,12 +1,12 @@
 ---
 title: "Carrying Contextual Learning Experiences Forward: A Structural Equation Model for Youths’ STEM Identity Development"
-date: "2026-04-01T00:00:00Z"
+date: "2026-04-08T00:00:00Z"
 event_name: "2026 AERA Annual Meeting"
 location: "Los Angeles, California"
 summary: "Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). Carrying Contextual Learning Experiences Forward: A Structural Equation Model for Youths’ STEM Identity Development [Presentation]. 2026 AERA Annual Meeting, Los Angeles, California."
 
-event_start: "2026-04-01T00:00:00Z"
-event_end: "2026-04-01T00:00:00Z"
+event_start: "2026-04-08T00:00:00Z"
+event_end: "2026-04-12T00:00:00Z"
 event_all_day: true
 
 authors:
@@ -30,4 +30,4 @@ projects: []
 slides: ""
 ---
 
-Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). Carrying Contextual Learning Experiences Forward: A Structural Equation Model for Youths’ STEM Identity Development [Presentation]. 2026 AERA Annual Meeting, Los Angeles, California.
+Suggested Citation: Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). Carrying Contextual Learning Experiences Forward: A Structural Equation Model for Youths’ STEM Identity Development [Presentation]. 2026 AERA Annual Meeting, Los Angeles, California. 

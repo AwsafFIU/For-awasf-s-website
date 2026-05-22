@@ -10,4 +10,4 @@ tags:
 
 **March 2022 – July 2022**
 
-- As an ECR for the 3Mpower-Mobile Learning for Empowerment of Marginalised Mathematics Educators research project, I visited the field, conducted teacher interviews, and collected and analyzed data
+- As an ECR for the 3Mpower-Mobile Learning for Empowerment of Marginalized Mathematics Educators research project, I visited the field, conducted teacher interviews, and collected and analyzed data

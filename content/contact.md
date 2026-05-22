@@ -9,7 +9,7 @@ sections:
       title: Contact
       subtitle: I welcome conversations about STEM education, engineering identity, and informal STEM learning.
       text: |-
-        **Email:** [aawsa001@gmail.com](mailto:aawsa001@gmail.com)
+        **Email:** 
 
         **LinkedIn:** [linkedin.com/in/awsaffiu](https://www.linkedin.com/in/awsaffiu/)
 

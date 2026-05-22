@@ -1,6 +1,6 @@
 ---
 title: "A Structural Equation Model for Youths’ STEM Identity Development: Impact of Contextual STEM Learning Experiences"
-date: "2026-04-01T00:00:00Z"
+date: "April, 2026T00:00:00Z"
 event_name: "2026 NARST Annual International Conference"
 location: "Seattle, Washington"
 summary: "Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). A Structural Equation Model for Youths’ STEM Identity Development: Impact of Contextual STEM Learning Experiences [Presentation]. 2026 NARST Annual International Conference, Seattle, Washington."
@@ -30,4 +30,4 @@ projects: []
 slides: ""
 ---
 
-Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). A Structural Equation Model for Youths’ STEM Identity Development: Impact of Contextual STEM Learning Experiences [Presentation]. 2026 NARST Annual International Conference, Seattle, Washington.
+Suggested Citation: Awsaf, A.A., Dou, R., Sunbury, S., Gerhard, S., & Sadler, P. (2026, April). A Structural Equation Model for Youths’ STEM Identity Development: Impact of Contextual STEM Learning Experiences [Presentation]. 2026 NARST Annual International Conference, Seattle, Washington.
