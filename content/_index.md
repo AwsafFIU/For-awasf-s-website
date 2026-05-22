@@ -17,9 +17,9 @@ sections:
         text: Curriculum Vitae
         url: "uploads/CV Amdad Ahmed Awsaf.pdf"
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About Me'
+        education: 'Education'
+        interests: 'Research Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -36,20 +36,21 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 'Research Agenda'
+      subtitle: 'Equity-centered STEM education research'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research agenda focuses on how learners develop STEM identities and how educational environments can support access, engagement, and persistence. I study both formal and informal STEM learning contexts, with attention to engineering education, youth identity development, and equitable learning opportunities.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I use quantitative, qualitative, and mixed-method approaches to examine how personal, educational, and societal identities shape STEM participation.
 
-        Please reach out to collaborate 😃
+        This site highlights my research interests, publications, conference presentations, teaching, collaborations, awards, and contact information.
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: research-publications
     content:
-      title: Featured Publications
+      title: Selected Publications
+      text: 'Use this section for your strongest publications, working papers, manuscripts, and conference papers.'
       filters:
         folders:
           - publications
@@ -59,7 +60,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publication List
       text: ''
       filters:
         folders:
@@ -71,15 +72,23 @@ sections:
     id: teaching
     content:
       title: Teaching
-      subtitle: ''
+      subtitle: 'Courses, mentoring, and instructional experience'
       text: |-
-        Add your teaching experience, courses taught, guest lectures, teaching assistantships, and mentoring here.
+        Add the courses you have taught or supported here. For each item, include the course title, your role, institution, semester, and a short note about your teaching responsibilities.
+
+        **Suggested format**
+
+        - Course title, role, institution, semester/year
+        - Guest lecture or workshop title, audience, date
+        - Mentoring or supervision experience
+        - Teaching philosophy or inclusive teaching approach
     design:
       columns: '1'
   - block: collection
-    id: talks
+    id: conferences
     content:
-      title: Recent & Upcoming Talks
+      title: Conferences & Presentations
+      text: 'Use this section for conference presentations, invited talks, workshops, posters, and symposium participation.'
       filters:
         folders:
           - events
@@ -114,13 +123,56 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: project-affiliations
+    content:
+      title: Project Affiliations
+      text: 'Feature research teams, grants, collaborations, labs, and applied projects here.'
+      filters:
+        folders:
+          - projects
+    design:
+      view: card
+      columns: 2
+  - block: markdown
+    id: awards-honors
+    content:
+      title: Awards & Honors
+      subtitle: 'Recognition, fellowships, grants, and academic honors'
+      text: |-
+        Add awards, scholarships, fellowships, travel grants, paper awards, and university recognitions here.
+
+        **Suggested format**
+
+        - Award name, organization, year
+        - Fellowship or scholarship, organization, year
+        - Travel award or research grant, organization, year
+    design:
+      columns: '1'
+  - block: markdown
+    id: courses
+    content:
+      title: Courses
+      subtitle: 'Teaching and coursework highlights'
+      text: |-
+        Use this section to highlight courses taught, courses assisted, workshops led, or selected doctoral coursework relevant to your academic profile.
+
+        You can later replace this section with a full course list or teaching portfolio page.
+    design:
+      columns: '1'
   - block: markdown
     id: contact
     content:
       title: Contact
-      subtitle: ''
+      subtitle: 'I welcome conversations about STEM education, engineering identity, and informal STEM learning.'
       text: |-
-        Email: [your.email@fiu.edu](mailto:your.email@fiu.edu)
+        Email: [aawsa001@gmail.com](mailto:aawsa001@gmail.com)
+
+        LinkedIn: [linkedin.com/in/awsaffiu](https://www.linkedin.com/in/awsaffiu/)
+
+        Google Scholar: [Scholar profile](https://scholar.google.com/citations?user=kZqcwHEAAAAJ&hl=en)
+
+        ORCID: [0009-0000-6943-4526](https://orcid.org/0009-0000-6943-4526)
     design:
       columns: '1'
   - block: cta-card

@@ -8,22 +8,22 @@ main:
     url: /#about-me
     weight: 10
   - name: Research & Publications
-    url: /#papers
+    url: /#research-publications
     weight: 11
   - name: Conferences
-    url: /#talks
+    url: /#conferences
     weight: 12
   - name: Teaching
     url: /#teaching
     weight: 13
   - name: Project Affiliations
-    url: projects/
+    url: /#project-affiliations
     weight: 14
   - name: Awards & Honors
-    url: experience/
+    url: /#awards-honors
     weight: 15
   - name: Courses
-    url: courses/
+    url: /#courses
     weight: 16
   - name: Contact
     url: /#contact

@@ -15,34 +15,29 @@ status:
   icon: ""
 role: PhD Candidate in STEM Education
 bio: |
-  Amdad Ahmed Awsaf is a PhD Candidate in STEM Education.Amdad Ahmed Awsaf is a PhD candidate 
-  in the Department of Teaching and Learning at Florida International University, 
-  concentrating in STEM Education. His research examines how personal, educational, and societal 
-  identities shape access to, engagement in, and persistence in STEM. He employs quantitative, 
-  qualitative, and mixed-method approaches to study youths' identity development across formal 
-  and informal STEM learning spaces, including makerspaces and science camps, as well as the role
-   of educational technologies in supporting equitable participation. His goal is to develop 
-   context-specific, effective interventions that provide equitable learning opportunities and 
-   help people discover and solidify their identities within STEM.
+  Amdad Ahmed Awsaf is a PhD candidate in STEM Education in the Department of Teaching and Learning
+  at Florida International University. His research examines how personal, educational, and societal
+  identities shape access to, engagement in, and persistence in STEM. He uses quantitative,
+  qualitative, and mixed-method approaches to study youth identity development across formal and
+  informal STEM learning spaces, including makerspaces and science camps. His work also examines how
+  educational technologies can support equitable STEM participation.
 
 affiliations:
-  - name: Florida
-    url: https://www.talkingscience.net/about/
+  - name: Florida International University
+    url: https://www.fiu.edu/
 
 links:
   - icon: at-symbol
-    url: aawsa001@gmail.com
+    url: mailto:aawsa001@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: 
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/AwsafFIU
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/awsaffiu/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=kZqcwHEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0000-6943-4526
+    url: https://orcid.org/0009-0000-6943-4526
 
 interests:
   - STEM Education 
@@ -68,11 +63,11 @@ education:
     institution: Florida International University
     start: 2022-08-22
     end: 2025-04-22
-  - degree: Masters of Education in Scicence, Mathematics, and Technology
+  - degree: Master of Education in Science, Mathematics, and Technology
     institution: University of Dhaka
     start: 2020-01-01
     end: 2022-07-05
-  - degree: Bachelor of Education in Scicence, Mathematics, and Technology
+  - degree: Bachelor of Education in Science, Mathematics, and Technology
     institution: University of Dhaka
     start: 2016-01-01
     end: 2019-12-31
