@@ -9,26 +9,31 @@ sections:
       title: Teaching
       subtitle: Courses, mentoring, and instructional experience
       text: |-
-        Use this page to present your teaching experience clearly for search committees.
+        ## Instructor of Record, Florida International University (FIU)
 
-        ## Teaching Areas
+        **Spring, 2025**  
+        **SMT4664 Educational Assessment and Project-Based Instruction in Mathematics and Science**
 
-        - STEM education
-        - Engineering education
-        - Informal STEM learning
-        - Research methods
-        - Educational technology
+        - Led instruction and assessment for Florida Educator Accomplished Practices (FEAP)-aligned teacher certification course focused on STEM assessment and project-based instruction
+        - Co-designed curriculum and performance-based assessments with faculty mentor
+        - Evaluated 11 pre-service teachers
+        - Supervised 5 pre-service teachers in school-based practica and conducted site visits to 3 high schools for instructional evaluation
 
-        ## Courses Taught or Assisted
+        ## Graduate Teaching Assistant, Florida International University (FIU)
 
-        Spring 2026
+        **Fall, 2022**  
+        **EDF 7404 Qualitative Research Data Analysis**
 
-        - **SMT**, Role, Institution, Semester/Year
-        - Short description of your teaching responsibilities, students served, and major assignments or learning goals.
+        - Assisted in course design and instructional delivery for a graduate-level qualitative research data analysis course
+        - Facilitated and supported instructional activities and in-class learning under faculty supervision
 
-        ## Mentoring and Workshops
+        ## Intern Teacher, Udayan Higher Secondary High School, Dhaka
 
-        Add guest lectures, student mentoring, workshops, professional development sessions, or community STEM learning activities here.
+        **January 2019 – June 2019**
+
+        - Instructed mathematics and science at the secondary level (middle and high school equivalent)
+        - Developed and implemented subject-based lesson and unit plans aligned with curriculum standards
+        - Assessed student learning through grading and evaluation of examinations and project-based work
     design:
       columns: '1'
 ---
