@@ -1,6 +1,6 @@
 ---
 title: "Examining the impact of perceived experiences on STEM identity and career aspirations among underrepresented youth"
-date: "April, 2025T00:00:00Z"
+date: "2025-04-01T00:00:00Z"
 event_name: "2025 AERA Annual Meeting"
 location: "Denver, CO"
 summary: "Awsaf, A.A., Dou, R., Gerhard, S., & Sadler, P. (2025, April). Examining the impact of perceived experiences on STEM identity and career aspirations among underrepresented youth [Presentation]. 2025 AERA Annual Meeting, Denver, CO."

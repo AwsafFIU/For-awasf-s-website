@@ -1,6 +1,6 @@
 ---
 title: "A Systematic Literature Review of Survey Research on Engineering Identity"
-date: "March, 2024T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 event_name: "2024 NARST Annual International Conference"
 location: "Denver, CO"
 summary: "Awsaf, A.A., Cian, H., & Dou, R.  (2024, March). A Systematic Literature Review of Survey Research on Engineering Identity[Presentation]. 2024 NARST Annual International Conference, Denver, CO."

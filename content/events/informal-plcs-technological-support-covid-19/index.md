@@ -1,6 +1,6 @@
 ---
 title: "Impact of Informal PLC’s Technological Support During COVID-19 in Enhancing Secondary Science Teachers’ Efficacy"
-date: "October, 2023T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 event_name: "Southeastern Association for Science Teacher Education Annual Conference"
 location: "Miami, Florida"
 summary: "Awsaf, A. A., Siddique, M. N. A., & Rahman, S. M. H. (October 2023). Impact of Informal PLC’s Technological Support During COVID-19 in Enhancing Secondary Science Teachers’ Efficacy. Southeastern Association for Science Teacher Education Annual Conference, Miami, Florida."
