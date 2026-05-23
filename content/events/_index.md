@@ -9,4 +9,4 @@ image:
   filename: ''
 ---
 
-Conference presentations (Peer-reviewed).
+(Peer-reviewed)
